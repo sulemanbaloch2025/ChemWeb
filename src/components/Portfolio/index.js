@@ -52,12 +52,7 @@ const Portfolio = () => {
                 To resolve this issue, I have created a platform where students can draw and check their structures. For this project,  I have created a game with 8 different levels where each level is based on a drawing the possible structural isomers of a given formulae where each isomer can only be drawn once to be considered correct. In order to win, the student must drawn all possible isomers for each structure in all levels. 
 
 
-                    <hr/>
-                    <b> Future Development : </b>This project shall be passed onto to future students to add greater functionality e.g. 3D aspect where drawn molecules would be represented in a 3D manner. 
-                    The students shall enlist thier names below 
-                
-                        <ul>1. Anh Phuong Do</ul>
-                        <ul>2. Minahil Nayyar Khan</ul>
+          
                   
                 
                   

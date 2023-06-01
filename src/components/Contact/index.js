@@ -17,6 +17,7 @@ const level7 = new Map();
 const level8 = new Map();
 
 
+
 level1.set('COC',"https://upload.wikimedia.org/wikipedia/commons/b/b9/Dimethylether.png");
 level1.set('CCO'," https://upload.wikimedia.org/wikipedia/commons/8/82/Ethanol-2D-skeletal.svg");
 
@@ -99,6 +100,7 @@ function findsrc(src) {
 		isPaused: null,		//call and returns true or false depending on whether the confetti animation is paused
 		isRunning: null		//call and returns true or false depending on whether the animation is running
 	};
+	
 	
 	(function() {
 		confetti.start = startConfetti;
